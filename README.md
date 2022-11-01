@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋  Hi, I’m @omargfh and this is [my personal website](https://www.omaribrahim.live)<br>👀  I’m interested in web development, computer graphics, and machine learning<br>🌱 I’m currently studying Computer Science and Economics at the University of Chicago<br>📫 Find all my contacts in my personal website above
 
+![](https://komarev.com/ghpvc/?username=omargfh)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/omargfh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omaribbrahim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omaribb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omaribbrahim) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@omaribb_) 
