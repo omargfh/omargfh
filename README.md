@@ -19,7 +19,7 @@ A web app to batch split/crop multiple images across different file formats
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## ChiData CrustyDB (Class project, [ChiData](https://uchi-db.github.io/chidatasite/}))
-Implemented Page, Heapstore, Storage Manager, and Operators for CrustyDB @ CMSC 23500
+Implemented Page, Heapstore, Storage Manager, and Operator Execution for CrustyDB @ CMSC 23500
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
